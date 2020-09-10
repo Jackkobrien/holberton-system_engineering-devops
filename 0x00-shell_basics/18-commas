@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $(ls -Famv)"\n"
+echo $(ls --file-type -amv)"\n"
+
