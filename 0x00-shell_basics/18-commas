@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -pam)\n"
+echo "\n$(ls -pam)\n"
