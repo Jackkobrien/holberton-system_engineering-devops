@@ -1,0 +1,21 @@
+#contains commands as they correspond to tasks in project 0x00
+#translate to bash script later im lazy rn
+
+1 - ls
+2 - cd
+3 - ls -l
+4 - ls -la
+5 - ls -la -n
+6 - mkdir /tmp/holberton
+7 - mv /tmp/betty /tmp/holberton
+8 - rm /tmp/holberton/betty
+9 - rmdir tmp/holberton
+10 - cd -
+11 - ls -la . .. /root
+12 - file /tmp/iamafile
+13 - 
+14 - 
+15 - 
+16 - 
+17 - 
+18 - 
