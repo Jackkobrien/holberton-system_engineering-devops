@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "\n$(ls -apm)\n"
+=======
+echo "\n$(ls -pam)\n"
+>>>>>>> 32e0d0f63cd664e72ef635dc5bff7908fa3ff0b0
