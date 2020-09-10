@@ -1,3 +1,2 @@
 #!/bin/bash
 echo $(ls --file-type -amv)"\n"
-
