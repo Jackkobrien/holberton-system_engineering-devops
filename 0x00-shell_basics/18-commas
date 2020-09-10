@@ -1,2 +1,4 @@
 #!/bin/bash
-echo $(ls --file-type -amv)"\n"
+echo "$(ls -pamv)\n"
+
+
