@@ -1,17 +1,18 @@
 #include <stdio.h>
 #include <string.h>
 #include "holberton.h"
-
-char holberton[] = "Holberton";
-char c;
-int i = 0;
-
+/**
+ * main- Prints Holberton
+ *
+ * Return: 0
+ */
 int main(void)
 {
-	for (i = 0; i < 9; i++);
+	char holberton[] = "Holberton";
+
+	for (int i = 0; i < 9; i++)
 	{
-	c = holberton[i];
-	_putchar(c);
+		_putchar(holberton[i]);
 	}
 	_putchar('\n');
 
